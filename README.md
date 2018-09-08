@@ -30,9 +30,7 @@ __*Note:*__ In this project, you need a global package: __*firebase-tools*__ & 2
 
 ## __:snowflake: Screenshot:__
 
-![React_Firebase_Storage_1](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
-
-![React_Firebase_Storage_2](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
+![React_Firebase_Storage_1](./lintang_firebase_storage.png)
 
 __Done!__ :thumbsup:
 
